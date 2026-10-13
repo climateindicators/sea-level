@@ -14,7 +14,15 @@ Technical documentation: <https://19january2025snapshot.epa.gov/system/files/doc
 
 ## Figure data
 
-- **Figure 1** has no data download on EPA's page, because EPA renders it as a JavaScript chart. The narrative carries the caption; there is nothing to build.
+- `sea-level_fig-1.csv`  \
+  <https://19january2025snapshot.epa.gov/system/files/other-files/2024-10/sea-level_fig-1.csv>  \
+  sha256 `3a075b69dc33734707c0e7bc2ee32e4ad49a8a906678912a8d23f0bb32d2a3be`  \
+  encoding UTF-8, 144 data rows, columns: `Year`, `CSIRO - Adjusted sea level (inches)`, `CSIRO - Lower error bound (inches)`, `CSIRO - Upper error bound (inches)`, `NOAA - Adjusted sea level (inches)`  \
+  title: Figure 1. Global Average Absolute Sea Level Change, 1880-2023  \
+  data source: CSIRO, 2017; NOAA, 2024; web update: June 2024; units: inches  \
+  EPA's page draws this figure as a JavaScript chart with no download link; the
+  path above is the download argument its `createChart("container1", ...)` call
+  passes, added by hand after the build script missed it.
 
 - `sea-level_fig-2.csv`  \
   <https://19january2025snapshot.epa.gov/system/files/other-files/2024-06/sea-level_fig-2.csv>  \

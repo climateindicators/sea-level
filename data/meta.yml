@@ -6,6 +6,34 @@ indicator:
   technical_documentation: https://19january2025snapshot.epa.gov/system/files/documents/2024-06/sea-level_documentation.pdf
   rights: Public domain, work of the U.S. Government (17 U.S.C. 105)
 datasets:
+- file: sea_level_global_absolute_change.csv
+  figure: Figure 1
+  figure_title: Figure 1. Global Average Absolute Sea Level Change, 1880-2023
+  source_file: sea-level_fig-1.csv
+  source_sha256: 3a075b69dc33734707c0e7bc2ee32e4ad49a8a906678912a8d23f0bb32d2a3be
+  source_encoding: UTF-8
+  data_source: CSIRO, 2017; NOAA, 2024
+  web_update: June 2024
+  unit: inches
+  rows: 165
+  columns:
+  - name: year
+    type: integer
+    description: Calendar year.
+  - name: series
+    type: string
+    description: CSIRO (tide gauge reconstruction adjusted with satellite data, 1880-2013)
+      or NOAA (satellite measurements, 1993-2023).
+  - name: value
+    type: number
+    description: Cumulative change in global average absolute sea level since 1880,
+      inches.
+  - name: lower
+    type: number
+    description: Lower bound of the likely range, inches. CSIRO only; blank for NOAA.
+  - name: upper
+    type: number
+    description: Upper bound of the likely range, inches. CSIRO only; blank for NOAA.
 - file: sea_level_relative_change_by_station.csv
   figure: Figure 2
   figure_title: Figure 2. Relative Sea Level Change Along U.S. Coasts, 1960-2023
