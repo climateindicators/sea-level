@@ -1,0 +1,73 @@
+station,state,lat,long,value
+Nawiliwili,Hawaii,21.9544,-159.356,4.439763775
+Honolulu,Hawaii,21.3033,-157.865,3.819685035
+Mokuoloe,Hawaii,21.4331,-157.79,4.11732283
+Kahului,Hawaii,20.8949,-156.469,5.481496057
+Hilo,Hawaii,19.7303,-155.056,7.71377952
+Midway Atoll,Pacific Ocean,28.2117,-177.36,3.869291335
+Kwajalein,Marshall Islands,8.7317,167.7361,5.109448814
+Wake Island,Pacific Ocean,19.2906,166.6175,5.134251963
+Biological Station,Bermuda,32.37,-64.695,5.605511805
+Eastport,Maine,44.9046,-66.9829,5.655118104
+Bar Harbor,Maine,44.3922,-68.2043,5.952755899
+Portland,Maine,43.6581,-70.2442,4.836614168
+Seavey Island,Maine,43.0797,-70.7411,5.382283459
+Boston,Massachusetts,42.3539,-71.0503,7.292125977
+Woods Hole,Massachusetts,41.5236,-70.6711,7.614566921
+Newport,Rhode Island,41.5043,-71.3261,7.242519678
+Providence,Rhode Island,41.8072,-71.4007,6.349606293
+New London,Connecticut,41.3614,-72.09,7.11850393
+Montauk,New York,41.0483,-71.9594,8.755511802
+Kings Point,New York,40.8103,-73.7649,6.622440938
+The Battery,New York,40.7006,-74.0142,7.242519678
+Sandy Hook,New Jersey,40.4669,-74.0094,10.49173227
+Atlantic City,New Jersey,39.3567,-74.4181,10.44212597
+Philadelphia,Pennsylvania,39.9331,-75.142,7.71377952
+Reedy Point,Delaware,39.5583,-75.5719,9.648425187
+Lewes,Delaware,38.7828,-75.1193,9.201968495
+Cambridge,Maryland,38.5725,-76.0617,9.846850384
+Baltimore,Maryland,39.2667,-76.5783,8.110629913
+Annapolis,Maryland,38.9833,-76.4816,9.425196841
+Solomons Island,Maryland,38.3172,-76.4508,10.02047243
+Washington,D. C.,38.8733,-77.0217,8.656299204
+Kiptopeke,Virginia,37.1652,-75.9884,9.797244084
+Yorktown,Virginia,37.2265,-76.4788,11.93031495
+Sewells Point,Virginia,36.9428,-76.3286,11.88070865
+Beaufort,North Carolina,34.7173,-76.6707,8.805118101
+Wilmington,North Carolina,34.2275,-77.9536,6.771259836
+Springmaid Pier,South Carolina,33.6556,-78.9164,8.160236212
+Charleston,South Carolina,32.7808,-79.9236,8.631496054
+Fort Pulaski,Georgia,32.0347,-80.903,8.953936999
+Fernandina Beach,Florida,30.6714,-81.4658,5.655118104
+Mayport,Florida,30.3982,-81.4279,7.168110229
+Virginia Key,Florida,25.7314,-80.1618,7.837795268
+Key West,Florida,24.5557,-81.8079,6.473622041
+St. Petersburg,Florida,27.7611,-82.6269,7.664173221
+Cedar Key,Florida,29.135,-83.0317,5.828740152
+Pensacola,Florida,30.4044,-87.2112,6.672047237
+Grand Isle,Louisiana,29.2633,-89.9567,22.71968502
+Texas Point,Texas,29.6893,-93.8418,14.33622046
+Galveston Bay Entrance,Texas,29.3575,-94.7247,16.27086613
+Freeport Harbor,Texas,28.9357,-95.2942,8.953936999
+Rockport,Texas,28.0217,-97.0467,14.8570866
+South Padre Island,Texas,26.0731,-97.1675,10.34291338
+Port Isabel,Texas,26.0612,-97.2155,10.71496062
+San Diego,California,32.7156,-117.177,5.531102357
+La Jolla,California,32.8669,-117.257,5.084645664
+Los Angeles,California,33.7199,-118.273,2.653937005
+Santa Monica,California,34.0083,-118.5,3.844488185
+Port San Luis,California,35.1767,-120.76,2.505118108
+San Francisco,California,37.8063,-122.466,4.935826767
+Alameda,California,37.772,-122.3,2.281889761
+Crescent City,California,41.7456,-124.184,-1.934645667
+Astoria,Oregon,46.2073,-123.768,-0.347244094
+Neah Bay,Washington,48.3707,-124.602,-4.241338578
+Seattle,Washington,47.6026,-122.339,5.159055113
+Friday Harbor,Washington,48.5453,-123.013,2.9515748
+Ketchikan,Alaska,55.3319,-131.626,-0.892913385
+Sitka,Alaska,57.0517,-135.342,-6.076771647
+Juneau,Alaska,58.2988,-134.411,-33.31062989
+Skagway,Alaska,59.4508,-135.328,-44.74488184
+Adak Island,Alaska,51.8606,-176.638,-6.002362199
+Unalaska,Alaska,53.8792,-166.54,-10.61574802
+Magueyes Island,Puerto Rico,17.9701,-67.0464,4.985433066

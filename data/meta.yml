@@ -1,0 +1,35 @@
+indicator:
+  name: Sea Level
+  slug: sea-level
+  publisher: U.S. Environmental Protection Agency
+  source_page: https://19january2025snapshot.epa.gov/climate-indicators/climate-change-indicators-sea-level/index.html
+  technical_documentation: https://19january2025snapshot.epa.gov/system/files/documents/2024-06/sea-level_documentation.pdf
+  rights: Public domain, work of the U.S. Government (17 U.S.C. 105)
+datasets:
+- file: sea_level_relative_change_by_station.csv
+  figure: Figure 2
+  figure_title: Figure 2. Relative Sea Level Change Along U.S. Coasts, 1960-2023
+  source_file: sea-level_fig-2.csv
+  source_sha256: 2615508858240a411ccbde5d5b4dda6785b28615766463d8c80ca658a4a281e8
+  source_encoding: UTF-8
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: inches
+  rows: 72
+  columns:
+  - name: station
+    type: string
+    description: Tide gauge station name, as EPA labels it.
+  - name: state
+    type: string
+    description: U.S. state or territory the station is in.
+  - name: lat
+    type: number
+    description: Station latitude, decimal degrees.
+  - name: long
+    type: number
+    description: Station longitude, decimal degrees (negative = west).
+  - name: value
+    type: number
+    description: Relative sea level change at the station, 1960-2023, inches. Negative
+      means land rose faster than the sea.

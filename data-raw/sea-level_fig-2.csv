@@ -1,0 +1,79 @@
+"Figure 2. Relative Sea Level Change Along U.S. Coasts, 1960-2023",,,,
+Source: EPA's Climate Change Indicators in the United States: www.epa.gov/climate-indicators,,,,
+"Data source: NOAA, 2024",,,,
+Web update: June 2024,,,,
+Units: inches,,,,
+,,,,
+Lat,Long,Station Name,State,Relative sea level change
+21.9544,-159.356,Nawiliwili,Hawaii,4.439763775
+21.3033,-157.865,Honolulu,Hawaii,3.819685035
+21.4331,-157.79,Mokuoloe,Hawaii,4.11732283
+20.8949,-156.469,Kahului,Hawaii,5.481496057
+19.7303,-155.056,Hilo,Hawaii,7.71377952
+28.2117,-177.36,Midway Atoll,Pacific Ocean,3.869291335
+8.7317,167.7361,Kwajalein,Marshall Islands,5.109448814
+19.2906,166.6175,Wake Island,Pacific Ocean,5.134251963
+32.37,-64.695,Biological Station,Bermuda,5.605511805
+44.9046,-66.9829,Eastport,Maine,5.655118104
+44.3922,-68.2043,Bar Harbor,Maine,5.952755899
+43.6581,-70.2442,Portland,Maine,4.836614168
+43.0797,-70.7411,Seavey Island,Maine,5.382283459
+42.3539,-71.0503,Boston,Massachusetts,7.292125977
+41.5236,-70.6711,Woods Hole,Massachusetts,7.614566921
+41.5043,-71.3261,Newport,Rhode Island,7.242519678
+41.8072,-71.4007,Providence,Rhode Island,6.349606293
+41.3614,-72.09,New London,Connecticut,7.11850393
+41.0483,-71.9594,Montauk,New York,8.755511802
+40.8103,-73.7649,Kings Point,New York,6.622440938
+40.7006,-74.0142,The Battery,New York,7.242519678
+40.4669,-74.0094,Sandy Hook,New Jersey,10.49173227
+39.3567,-74.4181,Atlantic City,New Jersey,10.44212597
+39.9331,-75.142,Philadelphia,Pennsylvania,7.71377952
+39.5583,-75.5719,Reedy Point,Delaware,9.648425187
+38.7828,-75.1193,Lewes,Delaware,9.201968495
+38.5725,-76.0617,Cambridge,Maryland,9.846850384
+39.2667,-76.5783,Baltimore,Maryland,8.110629913
+38.9833,-76.4816,Annapolis,Maryland,9.425196841
+38.3172,-76.4508,Solomons Island,Maryland,10.02047243
+38.8733,-77.0217,Washington,D. C.,8.656299204
+37.1652,-75.9884,Kiptopeke,Virginia,9.797244084
+37.2265,-76.4788,Yorktown,Virginia,11.93031495
+36.9428,-76.3286,Sewells Point,Virginia,11.88070865
+34.7173,-76.6707,Beaufort,North Carolina,8.805118101
+34.2275,-77.9536,Wilmington,North Carolina,6.771259836
+33.6556,-78.9164,Springmaid Pier,South Carolina,8.160236212
+32.7808,-79.9236,Charleston,South Carolina,8.631496054
+32.0347,-80.903,Fort Pulaski,Georgia,8.953936999
+30.6714,-81.4658,Fernandina Beach,Florida,5.655118104
+30.3982,-81.4279,Mayport,Florida,7.168110229
+25.7314,-80.1618,Virginia Key,Florida,7.837795268
+24.5557,-81.8079,Key West,Florida,6.473622041
+27.7611,-82.6269,St. Petersburg,Florida,7.664173221
+29.135,-83.0317,Cedar Key,Florida,5.828740152
+30.4044,-87.2112,Pensacola,Florida,6.672047237
+29.2633,-89.9567,Grand Isle,Louisiana,22.71968502
+29.6893,-93.8418,Texas Point,Texas,14.33622046
+29.3575,-94.7247,Galveston Bay Entrance,Texas,16.27086613
+28.9357,-95.2942,Freeport Harbor,Texas,8.953936999
+28.0217,-97.0467,Rockport,Texas,14.8570866
+26.0731,-97.1675,South Padre Island,Texas,10.34291338
+26.0612,-97.2155,Port Isabel,Texas,10.71496062
+32.7156,-117.177,San Diego,California,5.531102357
+32.8669,-117.257,La Jolla,California,5.084645664
+33.7199,-118.273,Los Angeles,California,2.653937005
+34.0083,-118.5,Santa Monica,California,3.844488185
+35.1767,-120.76,Port San Luis,California,2.505118108
+37.8063,-122.466,San Francisco,California,4.935826767
+37.772,-122.3,Alameda,California,2.281889761
+41.7456,-124.184,Crescent City,California,-1.934645667
+46.2073,-123.768,Astoria,Oregon,-0.347244094
+48.3707,-124.602,Neah Bay,Washington,-4.241338578
+47.6026,-122.339,Seattle,Washington,5.159055113
+48.5453,-123.013,Friday Harbor,Washington,2.9515748
+55.3319,-131.626,Ketchikan,Alaska,-0.892913385
+57.0517,-135.342,Sitka,Alaska,-6.076771647
+58.2988,-134.411,Juneau,Alaska,-33.31062989
+59.4508,-135.328,Skagway,Alaska,-44.74488184
+51.8606,-176.638,Adak Island,Alaska,-6.002362199
+53.8792,-166.54,Unalaska,Alaska,-10.61574802
+17.9701,-67.0464,Magueyes Island,Puerto Rico,4.985433066
